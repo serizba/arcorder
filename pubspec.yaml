@@ -1,5 +1,5 @@
 name: arcorder
-description: "A new Flutter project."
+description: "Extremely simple app to save camera trajectories using AR Core "
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

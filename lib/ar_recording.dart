@@ -37,7 +37,7 @@ class ARRecording {
       directory = await getApplicationDocumentsDirectory();
     } else {
       print("Permission granted!");
-      directory = Directory("/storage/emulated/0/ARRecordings");
+      directory = Directory("/storage/emulated/0/ARCorder");
       if (!await directory.exists()) {
         await directory.create();
       }
